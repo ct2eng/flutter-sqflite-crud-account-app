@@ -1,10 +1,9 @@
-### DEMO
+### Screenshot
 
-<img src='./readmeImg/5.png' width='30%'>
-<img src='./readmeImg/1.png' width='30%'>
-<img src='./readmeImg/2.png' width='30%'>
-<img src='./readmeImg/3.png' width='30%'>
-<img src='./readmeImg/4.png' width='30%'>
+| ![demo](./readmeImg/5.png) |  ![demo](./readmeImg/1.png)  |  ![demo](./readmeImg/3.png) |
+|---|---|---|
+|  ![demo](./readmeImg/3.png)  |  ![demo](./readmeImg/4.png) |   |
+
 
 
 
